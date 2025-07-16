@@ -1,0 +1,21 @@
+{
+  "name": "wavebox-browser-control-mcp",
+  "version": "0.1.0",
+  "description": "Control Wavebox browser tabs, windows, and navigation",
+  "main": "server/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "keywords": [
+    "wavebox",
+    "browser",
+    "automation",
+    "mcp"
+  ],
+  "author": "Thomas Beverley <tom@wavebox.io>",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.6.0"
+  }
+}
