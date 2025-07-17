@@ -2,6 +2,8 @@
 
 Experimental MCP server to control Wavebox through Claude using AppleScript automation.
 
+https://www.youtube.com/watch?v=SQ_Byb1Jw3c
+
 ## Features
 
 - **Tab Management**: Open, close, switch between tabs
